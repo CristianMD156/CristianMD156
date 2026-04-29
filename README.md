@@ -39,7 +39,7 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
 
 ### Frontend
 
-![HTML]([https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white))
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
